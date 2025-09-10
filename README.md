@@ -4,7 +4,6 @@
 **Full Guide:** [`Data manipulation Guide.html`](https://github.com/HabtamuBizuayehu/Data_Manipulation_and_Wrangling_via_R/blob/main/docs/Data%20manipulation%20Guide.html)
 
 [![R](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://www.r-project.org/)  
-[![tidyverse](https://img.shields.io/badge/tidyverse-data%20wrangling-green)](https://www.tidyverse.org/)  
 [![ggplot2](https://img.shields.io/badge/ggplot2-visualisation-orange)](https://ggplot2.tidyverse.org/)
 
 > A practical and comprehensive walkthrough of **data wrangling in R**, designed to build technical proficiency and confidence in cleaning, transforming, and analyzing data.  
