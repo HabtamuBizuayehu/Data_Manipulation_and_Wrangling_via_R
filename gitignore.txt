@@ -1,0 +1,19 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rprofile
+
+# Quarto / site output
+_quarto/
+.quarto/
+_site/
+docs/
+
+# Optional: large/raw data
+data/raw/
+*.rds
+*.RData
+*.rda
