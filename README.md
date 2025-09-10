@@ -1,10 +1,11 @@
 ---
-title: "📊 Comprehensive Data Manipulation and Wrangling via R"
-author: "Habtamu Bizuayehu"
+ "📊 Comprehensive Data Manipulation and Wrangling via R"
+"Habtamu Bizuayehu"
 format: gfm
 ---
 
-**Live Website:** [http://habtamubizuayehu.com/Data_Manipulation_and_Wrangling_via_R/](http://habtamubizuayehu.com/Data_Manipulation_and_Wrangling_via_R/)  
+**Live Website:** [http://habtamubizuayehu.com/Data_Manipulation_and_Wrangling_via_R/](http://habtamubizuayehu.com/Data_Manipulation_and_Wrangling_via_R/) 
+ 
 
 [![R](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://www.r-project.org/)  
 [![tidyverse](https://img.shields.io/badge/tidyverse-data%20wrangling-green)](https://www.tidyverse.org/)  
