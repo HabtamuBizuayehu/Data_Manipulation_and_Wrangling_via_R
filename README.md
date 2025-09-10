@@ -50,8 +50,10 @@ This project introduces a step-by-step framework for **data manipulation and wra
 <img src="treemap.png" alt="Treemap example" width="70%">
 
 ---
-
-## 🏷 Tags / Keywords
+**Live Website:** [http://habtamubizuayehu.com/Data_Manipulation_and_Wrangling_via_R/](http://habtamubizuayehu.com/Data_Manipulation_and_Wrangling_via_R/)  
+**Full Guide:** [`Data manipulation Guide.html`](https://github.com/HabtamuBizuayehu/Data_Manipulation_and_Wrangling_via_R/blob/main/docs/Data%20manipulation%20Guide.html)
+---
+## 🏷 Keywords
 
 #R #DataWrangling #Tidyverse #dplyr #ggplot2 #Shiny #DataScience #DataAnalytics  
 #PublicHealthData #RStats #ReproducibleResearch #Quarto #DataTransformation #OpenScience
